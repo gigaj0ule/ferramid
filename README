@@ -1,0 +1,5 @@
+This is a low-capacitance transformer and oil tank for a standalone >5kW high voltage power supply. 
+
+Hook this puppy to an LLC resonant converter like https://www.stevehv.4hv.org/ccps1.htm and you'll be in for a wild ride.
+
+PM me for write access to this repo if you wanna contribute the circuity bits.
