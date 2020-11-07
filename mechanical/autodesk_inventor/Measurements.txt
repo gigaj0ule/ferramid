@@ -1,0 +1,94 @@
+Primary coil: 	1 turn of copper foil.
+Secondary coil:	290 turns of 32AWG.
+
+Core: 		TSC-102-57-25-000
+
+Materials: 	50ALL, 7070
+
+
+
+NO AIR GAP, 50ALL
+
+Primary:	6.79uH
+
+Leakage:	0.35uH
+
+Secondary:	530mH
+
+Resonant:	50kHz
+
+---------------------------
+
+3 MIL AIR GAP, 50ALL
+
+Primary:	3.33uH
+
+Leakage:	0.36uH
+
+Secondary:	257.8mH
+
+Resonant:	70kHz
+
+---------------------------
+
+6 MIL AIR GAP, 50ALL
+
+Primary:	2.23uH
+
+Leakage:	0.37uH
+
+Secondary:	179.8mH
+
+Resonant:	85kHz
+
+
+===========================
+
+NO AIR GAP, 7070
+
+Primary:	4.95uH
+
+Leakage:	0.35uH
+
+Secondary:	406.8mH
+
+Resonant:	50kHz
+
+---------------------------
+
+3 MIL AIR GAP, 7070
+
+Primary:	2.96uH
+
+Leakage:	0.39uH
+
+Secondary:	229.6mH
+
+Resonant:	80kHz
+
+---------------------------
+
+6 MIL AIR GAP, 7070
+
+Primary:	2.22uH
+
+Leakage:	.38uH
+
+Secondary:	161.69mH
+
+Resonant:	92kHz
+
+
+
+  
+===========================
+
+NO CORE  
+
+Primary:	0.34uH
+
+Leakage:	0.34uH
+
+Secondary:	4.934mH
+
+Resonant:	500 something kHz
